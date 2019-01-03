@@ -1,6 +1,4 @@
-﻿
-
-namespace P01_HospitalDatabase.Data
+﻿namespace HospitalDatabase.Data
 {
    internal class Confiugartion
     {

@@ -1,11 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using P01_HospitalDatabase.Data.Models;
+using HospitalDatabase.Data.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace P01_HospitalDatabase.Data.EntityConfiguration
+namespace HospitalDatabase.Data.EntityConfiguration
 {
     public class DiagnoseConfig : IEntityTypeConfiguration<Diagnose>
     {

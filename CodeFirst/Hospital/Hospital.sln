@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_HospitalDatabase", "HospitalDatabase\P01_HospitalDatabase.csproj", "{D87E4CCE-EAC7-4B80-B143-3449E2CC2699}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalDatabase", "HospitalDatabase\HospitalDatabase.csproj", "{D87E4CCE-EAC7-4B80-B143-3449E2CC2699}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_HospitalDatabase.Data.Models", "P01_HospitalDatabase.Data.Models\P01_HospitalDatabase.Data.Models.csproj", "{D77F781A-CE54-4CAD-B37F-6DE6D7B7F62D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalDatabase.Data.Models", "P01_HospitalDatabase.Data.Models\HospitalDatabase.Data.Models.csproj", "{D77F781A-CE54-4CAD-B37F-6DE6D7B7F62D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_HospitalDatabase.Data", "P01_HospitalDatabase.Data\P01_HospitalDatabase.Data.csproj", "{840D5572-07D1-400C-8F57-F26ADD8569A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalDatabase.Data", "P01_HospitalDatabase.Data\HospitalDatabase.Data.csproj", "{840D5572-07D1-400C-8F57-F26ADD8569A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

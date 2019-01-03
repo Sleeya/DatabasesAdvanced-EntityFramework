@@ -1,4 +1,4 @@
-﻿namespace P01_HospitalDatabase.Data.Models
+﻿namespace HospitalDatabase.Data.Models
 {
     public class PatientMedicament
     {

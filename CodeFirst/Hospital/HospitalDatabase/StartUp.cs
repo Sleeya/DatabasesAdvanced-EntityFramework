@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace P01_HospitalDatabase
+namespace HospitalDatabase
 {
     class StartUp
     {

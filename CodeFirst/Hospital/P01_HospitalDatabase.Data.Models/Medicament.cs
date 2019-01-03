@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace P01_HospitalDatabase.Data.Models
+namespace HospitalDatabase.Data.Models
 {
     public class Medicament
     {

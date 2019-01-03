@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using P01_HospitalDatabase.Data.EntityConfiguration;
-using P01_HospitalDatabase.Data.Models;
+using HospitalDatabase.Data.EntityConfiguration;
+using HospitalDatabase.Data.Models;
 
-namespace P01_HospitalDatabase.Data
+namespace HospitalDatabase.Data
 {
     public class HospitalContext : DbContext
     {

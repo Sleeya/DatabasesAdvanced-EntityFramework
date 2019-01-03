@@ -5,9 +5,9 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using P01_HospitalDatabase.Data;
+using HospitalDatabase.Data;
 
-namespace P01_HospitalDatabase.Data.Migrations
+namespace HospitalDatabase.Data.Migrations
 {
     [DbContext(typeof(HospitalContext))]
     [Migration("20190103000454_DoctorsAdded")]
